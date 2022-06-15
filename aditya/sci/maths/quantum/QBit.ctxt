@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=QBit
+comment1.params=
+comment1.target=QBit()
+comment2.params=state
+comment2.target=QBit\ getQBit(QState)
+comment3.params=
+comment3.target=boolean\ isEntangled()
+comment4.params=
+comment4.target=boolean\ measure()
+numComments=5

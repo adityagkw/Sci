@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Hanoi
+comment1.params=s\ d
+comment1.target=void\ move(java.lang.String,\ java.lang.String)
+comment2.params=n\ s\ h\ d
+comment2.target=void\ moveHanoi(int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

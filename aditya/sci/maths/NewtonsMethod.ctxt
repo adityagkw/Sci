@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=NewtonsMethod
+comment1.params=x
+comment1.target=double\ f(double)
+comment2.params=x
+comment2.target=double\ df(double)
+comment3.params=px
+comment3.target=double\ iterate(double)
+comment4.params=ix\ i
+comment4.target=double\ iterate(double,\ int)
+numComments=5

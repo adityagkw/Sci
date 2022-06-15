@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Mass
+comment1.params=
+comment1.target=Mass()
+comment2.params=m
+comment2.target=Mass(double)
+comment3.params=s
+comment3.target=Mass(Scaler)
+numComments=4

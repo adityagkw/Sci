@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TuringCard
+comment1.params=number\ data
+comment1.target=TuringCard(int,\ java.lang.String)
+comment2.params=number
+comment2.target=void\ setNumber(int)
+comment3.params=
+comment3.target=int\ getNumber()
+comment4.params=data
+comment4.target=void\ load(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ data()
+numComments=6

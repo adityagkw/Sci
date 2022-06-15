@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EditMatrix
+comment1.params=b\ mat
+comment1.target=EditMatrix(QBit,\ aditya.sci.maths.Complex[][])
+comment2.params=
+comment2.target=void\ run()
+comment3.params=i
+comment3.target=java.lang.String\ toString(int)
+numComments=4

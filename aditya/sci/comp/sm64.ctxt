@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=sm64
+comment1.params=input
+comment1.target=short\ rng(short)
+comment2.params=input
+comment2.target=int\ getUnsignedRNG(int)
+numComments=3

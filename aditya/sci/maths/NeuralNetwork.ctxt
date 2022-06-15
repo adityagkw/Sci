@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=NeuralNetwork
+comment1.params=
+comment1.target=NeuralNetwork()
+comment2.params=layer
+comment2.target=void\ addLayer(NeuralLayer)
+comment3.params=in\ out
+comment3.target=void\ addTraining(double[],\ double[])
+comment4.params=in
+comment4.target=double[]\ run(double[])
+comment5.params=
+comment5.target=void\ train()
+comment6.params=out\ train
+comment6.target=double\ loss(double[],\ double[])
+numComments=7

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=R
+comment0.text=\r\nPhase\ shift(R\ phi)\r\n
+comment1.params=b\ phi
+comment1.target=R(QBit,\ double)
+comment2.params=i
+comment2.target=java.lang.String\ toString(int)
+numComments=3

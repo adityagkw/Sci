@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=RootFinder
+comment1.params=f\ parameter\ i
+comment1.target=aditya.sci.maths.Complex\ Newton(ComplexFunction,\ aditya.sci.maths.Complex[],\ int)
+comment2.params=f\ parameter\ i
+comment2.target=aditya.sci.maths.Complex[]\ Newton(ComplexFunction[],\ aditya.sci.maths.Complex[],\ int[])
+comment3.params=f\ parameter\ i\ roots
+comment3.target=aditya.sci.maths.Complex[]\ Aberth(ComplexFunction,\ aditya.sci.maths.Complex[],\ int,\ int)
+comment4.params=f\ parameter\ i\ roots
+comment4.target=aditya.sci.maths.Complex[][]\ Aberth(ComplexFunction[],\ aditya.sci.maths.Complex[],\ int[],\ int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment6.params=x
+comment6.target=aditya.sci.maths.Complex\ run(aditya.sci.maths.Complex[])
+comment7.params=x
+comment7.target=aditya.sci.maths.Complex\ run(aditya.sci.maths.Complex[])
+comment8.params=x
+comment8.target=aditya.sci.maths.Complex\ run(aditya.sci.maths.Complex[])
+numComments=9

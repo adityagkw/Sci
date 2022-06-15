@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=H
+comment0.text=\r\nHadamard\ \r\n
+comment1.params=b
+comment1.target=H(QBit)
+comment2.params=i
+comment2.target=java.lang.String\ toString(int)
+numComments=3

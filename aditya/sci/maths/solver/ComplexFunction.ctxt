@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ComplexFunction
+comment1.params=x
+comment1.target=aditya.sci.maths.Complex\ run(aditya.sci.maths.Complex[])
+comment2.params=f\ roots\ i\ x
+comment2.target=aditya.sci.maths.Complex\ runRoot(ComplexFunction,\ aditya.sci.maths.Complex[][],\ int,\ aditya.sci.maths.Complex[])
+comment3.params=parameter
+comment3.target=aditya.sci.maths.Complex[]\ clone(aditya.sci.maths.Complex[])
+numComments=4

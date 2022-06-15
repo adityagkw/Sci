@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=TuringMachine
+comment1.params=
+comment1.target=TuringMachine()
+comment2.params=data
+comment2.target=TuringMachine(java.lang.String)
+comment3.params=card
+comment3.target=void\ addCard(TuringCard)
+comment4.params=card
+comment4.target=void\ removeCard(TuringCard)
+comment5.params=i
+comment5.target=TuringCard\ getCardByIndex(int)
+comment6.params=i
+comment6.target=TuringCard\ getCardByNumber(int)
+comment7.params=card
+comment7.target=void\ runCard(TuringCard)
+comment8.params=
+comment8.target=java.lang.String\ update()
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Deutch
+comment1.params=in\ out\ c
+comment1.target=void\ set0(QBit,\ QBit,\ QCircuit)
+comment2.params=in\ out\ c
+comment2.target=void\ set1(QBit,\ QBit,\ QCircuit)
+comment3.params=in\ out\ c
+comment3.target=void\ identity(QBit,\ QBit,\ QCircuit)
+comment4.params=in\ out\ c
+comment4.target=void\ inverse(QBit,\ QBit,\ QCircuit)
+comment5.params=bb\ in\ out\ c
+comment5.target=boolean\ blackbox(Deutch.BlackBox,\ QBit,\ QBit,\ QCircuit)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

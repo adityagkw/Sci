@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=DebugMatrix
+comment1.params=b\ name
+comment1.target=DebugMatrix(QBit,\ java.lang.String)
+comment2.params=b\ name\ view
+comment2.target=DebugMatrix(QBit,\ java.lang.String,\ boolean)
+comment3.params=
+comment3.target=void\ run()
+comment4.params=i
+comment4.target=java.lang.String\ toString(int)
+numComments=5

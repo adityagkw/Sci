@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Position
+comment1.params=
+comment1.target=Position()
+comment2.params=p
+comment2.target=Position(double[])
+comment3.params=v
+comment3.target=Position(Vector)
+comment4.params=
+comment4.target=void\ update()
+numComments=5

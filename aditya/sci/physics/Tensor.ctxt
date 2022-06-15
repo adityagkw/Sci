@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Tensor
+comment1.params=
+comment1.target=Tensor()
+comment10.params=a\ b
+comment10.target=Tensor\ tensorProduct(Tensor,\ Tensor)
+comment2.params=dim\ r
+comment2.target=Tensor(int,\ int)
+comment3.params=t
+comment3.target=Tensor(Tensor)
+comment4.params=i
+comment4.target=double\ getComponent(int[])
+comment5.params=v\ i
+comment5.target=void\ setComponent(double,\ int[])
+comment6.params=a\ b
+comment6.target=Tensor\ add(Tensor,\ Tensor)
+comment7.params=a\ b
+comment7.target=Tensor\ sub(Tensor,\ Tensor)
+comment8.params=a\ b
+comment8.target=Tensor\ mul(Tensor,\ Tensor)
+comment9.params=a\ b
+comment9.target=Tensor\ div(Tensor,\ Tensor)
+numComments=11

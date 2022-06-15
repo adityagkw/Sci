@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ErrorCorrection
+comment1.params=s
+comment1.target=java.lang.String\ encode(java.lang.String)
+comment2.params=s
+comment2.target=java.lang.String\ decode(java.lang.String)
+comment3.params=s
+comment3.target=java.lang.String\ encodeFromUnicode(java.lang.String)
+comment4.params=s
+comment4.target=java.lang.String\ decodeToUnicode(java.lang.String)
+numComments=5

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Regression
+comment1.params=
+comment1.target=Regression()
+comment2.params=n
+comment2.target=Regression(int)
+comment3.params=X\ Y
+comment3.target=void\ fit(double[][],\ double[])
+comment4.params=xpow\ ypow
+comment4.target=double\ avg(int[],\ int)
+comment5.params=x\ xpow
+comment5.target=double\ pow(double[],\ int[])
+comment6.params=
+comment6.target=void\ train()
+comment7.params=inp
+comment7.target=double\ predict(double[])
+numComments=8

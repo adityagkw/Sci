@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=KMeansTest
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=center\ radius
+comment2.target=double[]\ circle(double[],\ double)
+comment3.params=point
+comment3.target=java.lang.String\ string(double[])
+numComments=4

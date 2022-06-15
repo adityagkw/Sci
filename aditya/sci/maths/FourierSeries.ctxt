@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=FourierSeries
+comment1.params=n
+comment1.target=FourierSeries(int)
+comment2.params=a
+comment2.target=Complex\ constant(int)
+comment3.params=
+comment3.target=void\ create()
+comment4.params=v
+comment4.target=Complex\ get(double)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment6.params=c
+comment6.target=Complex\ f(Complex)
+numComments=7

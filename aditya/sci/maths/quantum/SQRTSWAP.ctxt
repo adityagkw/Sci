@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SQRTSWAP
+comment0.text=\r\n\ Square\ root\ of\ SWAP\r\n
+comment1.params=c\ b
+comment1.target=SQRTSWAP(QBit,\ QBit)
+comment2.params=i
+comment2.target=java.lang.String\ toString(int)
+numComments=3

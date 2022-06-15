@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Measure
+comment1.params=b\ name
+comment1.target=Measure(QBit,\ java.lang.String)
+comment2.params=
+comment2.target=void\ run()
+comment3.params=i
+comment3.target=java.lang.String\ toString(int)
+numComments=4

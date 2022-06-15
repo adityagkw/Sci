@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MiniMax
+comment1.params=node\ depth\ maximize
+comment1.target=double\ minimax(MiniMaxNode,\ int,\ boolean)
+comment2.params=node\ depth\ maximize\ alpha\ beta
+comment2.target=double\ minimaxalphabeta(MiniMaxNode,\ int,\ boolean,\ double,\ double)
+comment3.params=node\ depth\ maximize
+comment3.target=double\ minimaxalphabeta(MiniMaxNode,\ int,\ boolean)
+numComments=4

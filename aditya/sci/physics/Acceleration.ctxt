@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Acceleration
+comment1.params=
+comment1.target=Acceleration()
+comment2.params=p
+comment2.target=Acceleration(double[])
+comment3.params=v
+comment3.target=Acceleration(Vector)
+comment4.params=
+comment4.target=void\ update()
+numComments=5

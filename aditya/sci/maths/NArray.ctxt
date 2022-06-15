@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=NArray
+comment1.params=shape
+comment1.target=NArray(int[])
+comment2.params=i
+comment2.target=int\ getIndex(int[])
+comment3.params=i
+comment3.target=int[]\ getIndexArray(int)
+comment4.params=i
+comment4.target=int[]\ getNextIndex(int[])
+comment5.params=i
+comment5.target=java.lang.Object\ get(int[])
+comment6.params=obj\ i
+comment6.target=void\ set(java.lang.Object,\ int[])
+numComments=7

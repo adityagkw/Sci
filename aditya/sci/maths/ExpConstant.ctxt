@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ExpConstant
+comment1.params=v
+comment1.target=ExpConstant(Complex)
+comment2.params=v
+comment2.target=ExpConstant(double)
+comment3.params=map
+comment3.target=Complex\ eval(java.util.HashMap)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

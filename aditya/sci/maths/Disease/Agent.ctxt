@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Agent
+comment1.params=s
+comment1.target=Agent(DiseaseSystem)
+comment2.params=
+comment2.target=void\ move()
+comment3.params=
+comment3.target=void\ infect()
+comment4.params=
+comment4.target=void\ cure()
+comment5.params=
+comment5.target=void\ die()
+comment6.params=
+comment6.target=void\ update()
+numComments=7

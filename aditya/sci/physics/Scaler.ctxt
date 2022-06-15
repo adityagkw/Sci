@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Scaler
+comment1.params=
+comment1.target=Scaler()
+comment2.params=v
+comment2.target=Scaler(double)
+comment3.params=s
+comment3.target=Scaler(Scaler)
+comment4.params=
+comment4.target=double\ get()
+comment5.params=v
+comment5.target=void\ set(double)
+comment6.params=a\ b
+comment6.target=Scaler\ add(Scaler,\ Scaler)
+comment7.params=a\ b
+comment7.target=Scaler\ sub(Scaler,\ Scaler)
+comment8.params=a\ b
+comment8.target=Scaler\ mul(Scaler,\ Scaler)
+comment9.params=a\ b
+comment9.target=Scaler\ div(Scaler,\ Scaler)
+numComments=10

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DiseaseSystem
+comment1.params=
+comment1.target=DiseaseSystem()
+comment2.params=
+comment2.target=Agent[]\ getAgents()
+comment3.params=
+comment3.target=void\ update()
+numComments=4

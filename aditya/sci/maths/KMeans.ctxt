@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=KMeans
+comment1.params=k
+comment1.target=KMeans(int)
+comment2.params=point
+comment2.target=void\ fit(double[])
+comment3.params=points
+comment3.target=void\ fit(double[][])
+comment4.params=iterations
+comment4.target=void\ train(int)
+comment5.params=point
+comment5.target=int\ predict(double[])
+comment6.params=point
+comment6.target=java.lang.String\ string(double[])
+numComments=7

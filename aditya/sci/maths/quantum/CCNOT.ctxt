@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=CCNOT
+comment0.text=\r\nToffoli\ (CCNOT,CCX,TOFF)\ \r\n
+comment1.params=c1\ c2\ b
+comment1.target=CCNOT(QBit,\ QBit,\ QBit)
+comment2.params=i
+comment2.target=java.lang.String\ toString(int)
+numComments=3

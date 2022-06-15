@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Sort
+comment1.params=in
+comment1.target=java.lang.Comparable[]\ linear(java.lang.Comparable[])
+comment2.params=in
+comment2.target=java.lang.Comparable[]\ selection(java.lang.Comparable[])
+comment3.params=in
+comment3.target=java.lang.Comparable[]\ bubble(java.lang.Comparable[])
+comment4.params=in
+comment4.target=java.lang.Comparable[]\ quick(java.lang.Comparable[])
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

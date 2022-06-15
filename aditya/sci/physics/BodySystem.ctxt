@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=BodySystem
+comment1.params=
+comment1.target=BodySystem()
+comment10.params=
+comment10.target=int\ update()
+comment11.params=
+comment11.target=void\ autoUpdate()
+comment12.params=
+comment12.target=void\ run()
+comment2.params=name
+comment2.target=BodySystem(java.lang.String)
+comment3.params=
+comment3.target=int\ size()
+comment4.params=b
+comment4.target=void\ addBody(Body)
+comment5.params=i
+comment5.target=Body\ getBody(int)
+comment6.params=name
+comment6.target=Body\ getBody(java.lang.String)
+comment7.params=b
+comment7.target=void\ removeBody(Body)
+comment8.params=i
+comment8.target=void\ removeBody(int)
+comment9.params=name
+comment9.target=void\ removeBody(java.lang.String)
+numComments=13

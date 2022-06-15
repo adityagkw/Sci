@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Graph
+comment1.params=axis\ a\ b
+comment1.target=double\ Exclude(double,\ double,\ double)
+comment2.params=axis\ a\ b
+comment2.target=double\ Include(double,\ double,\ double)
+comment3.params=axis\ otheraxis\ h\ k\ r
+comment3.target=double\ Circle(double,\ double,\ double,\ double,\ double)
+comment4.params=axis\ otheraxis\ h\ k\ a\ b
+comment4.target=double\ Eclipse(double,\ double,\ double,\ double,\ double,\ double)
+comment5.params=axis\ otheraxis\ h\ k\ a\ b
+comment5.target=double\ Hyperbola(double,\ double,\ double,\ double,\ double,\ double)
+comment6.params=axis\ otheraxis\ a\ b\ c
+comment6.target=double\ Parabola(double,\ double,\ double,\ double,\ double)
+numComments=7

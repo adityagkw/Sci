@@ -1,0 +1,37 @@
+#BlueJ class context
+comment0.target=NDCamera
+comment0.text=\r\nA\ class\ to\ find\ frustum\ projection\ of\ a\ n\ dimentional\ object.\r\nProjects\ a\ point\ in\ n\ dimensions\ to\ a\ point\ in\ (n-1)\ dimensions.\r\nCan\ be\ used\ repeatedly\ to\ convert\ a\ point\ from\ n\ dimension\ to-\r\n<br>\r\nn\ ->\ (n-1)\ ->\ (n-2)\ ->\ ...\ ->\ 4\ ->\ 3\ ->\ 2\ ->\ 1.\r\n<br>\r\n<br>\r\n<b>Note\:</b>\ Whenever\ a\ function\ asks\ for\ an\ axis,\ the\ no.\ of\ that\ axis\ (X\=0,Y\=1,Z\=2,...)\ should\ be\ used.\r\n@author\ Aditya\r\n@version\ 1.0\r\n
+comment1.params=n
+comment1.target=NDCamera(int)
+comment1.text=\r\n\ \ \ \ Creates\ a\ NDCamera\ with\ n\ number\ of\ dimensions.\r\n\ \ \ \ @param\ n\ Number\ of\ dimensions.\r\n
+comment10.params=ang
+comment10.target=void\ setFOV(double)
+comment11.params=
+comment11.target=double\ getFOV()
+comment12.params=p
+comment12.target=double[]\ getPoint(double[])
+comment13.params=camloc\ camrot\ p
+comment13.target=double[]\ getPoint(double[],\ double[],\ double[])
+comment14.params=p
+comment14.target=double[]\ getPoint2(double[])
+comment2.params=axis\ l
+comment2.target=void\ moveOnAxisBy(int,\ double)
+comment2.text=\r\n\ \ \ \ Moves\ the\ camera\ by\ l\ on\ axis.\r\n\ \ \ \ @param\ axis\ Axis\ number\ of\ the\ axis.\r\n\ \ \ \ @param\ l\ Number\ of\ units\ to\ move\ by\ on\ axis.\r\n
+comment3.params=axis\ l
+comment3.target=void\ moveOnAxisTo(int,\ double)
+comment3.text=\r\n\ \ \ \ Moves\ the\ camera\ to\ l\ on\ axis.\r\n\ \ \ \ @param\ axis\ Axis\ number\ of\ the\ axis.\r\n\ \ \ \ @param\ l\ Location\ of\ camera\ in\ units\ on\ axis.\r\n
+comment4.params=axis
+comment4.target=double\ getLocationOnAxis(int)
+comment4.text=\r\n\ \ \ \ Returns\ the\ current\ location\ of\ camera\ on\ axis.\r\n\ \ \ \ @param\ axis\ Axis\ number\ of\ the\ axis.\r\n\ \ \ \ @return\ Location\ of\ camera\ on\ axis.\r\n
+comment5.params=
+comment5.target=double[]\ getLocation()
+comment5.text=\r\n\ \ \ \ Returns\ the\ current\ location\ of\ Camera.\r\n\ \ \ \ @return\ Location\ of\ camera.\r\n
+comment6.params=axis1\ axis2\ ang
+comment6.target=void\ rotateInPlaneBy(int,\ int,\ double)
+comment7.params=axis1\ axis2\ ang
+comment7.target=void\ rotateInPlaneTo(int,\ int,\ double)
+comment8.params=axis1\ axis2
+comment8.target=double\ getRotationInPlane(int,\ int)
+comment9.params=
+comment9.target=double[]\ getRotation()
+numComments=15

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Property
+comment0.text=\r\n\r\n
+comment1.params=
+comment1.target=Property()
+comment2.params=
+comment2.target=java.lang.Object\ getValue()
+comment3.params=o
+comment3.target=void\ setValue(java.lang.Object)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=n
+comment5.target=void\ setName(java.lang.String)
+comment6.params=
+comment6.target=void\ update()
+numComments=7

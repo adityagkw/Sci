@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=SimpleMiniMaxNode
+comment1.params=
+comment1.target=SimpleMiniMaxNode()
+comment2.params=score
+comment2.target=SimpleMiniMaxNode(double)
+comment3.params=child
+comment3.target=SimpleMiniMaxNode(MiniMaxNode[])
+comment4.params=child
+comment4.target=void\ add(MiniMaxNode[])
+comment5.params=child
+comment5.target=void\ remove(MiniMaxNode[])
+comment6.params=
+comment6.target=double\ eval()
+comment7.params=
+comment7.target=MiniMaxNode[]\ getChildren()
+numComments=8

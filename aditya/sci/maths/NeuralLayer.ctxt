@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=NeuralLayer
+comment1.params=neurons
+comment1.target=NeuralLayer(int)
+comment2.params=
+comment2.target=void\ setWB()
+comment3.params=
+comment3.target=void\ randomizeWB()
+comment4.params=
+comment4.target=void\ run()
+comment5.params=
+comment5.target=void\ train()
+comment6.params=
+comment6.target=double\ random()
+comment7.params=x
+comment7.target=double\ activation(double)
+comment8.params=x
+comment8.target=double\ dactivation(double)
+numComments=9

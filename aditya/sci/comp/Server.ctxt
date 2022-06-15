@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Server
+comment1.params=port
+comment1.target=Server(int)
+comment2.params=
+comment2.target=void\ start()
+comment3.params=
+comment3.target=void\ run()
+comment4.params=
+comment4.target=void\ stop()
+comment5.params=s
+comment5.target=void\ startThread(java.net.Socket)
+comment6.params=
+comment6.target=void\ run()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
